@@ -1,0 +1,105 @@
+i.icon {
+  display: inline-block;
+  vertical-align: middle; }
+
+i.icon-arrow_black-xs {
+  background-image: url(../img/sprite.png);
+  background-position: -103px -42px;
+  width: 12px;
+  height: 10px; }
+
+i.icon-arrow_white-xs {
+  background-image: url(../img/sprite.png);
+  background-position: -103px -20px;
+  width: 12px;
+  height: 10px; }
+
+i.icon-cart-green {
+  background-image: url(../img/sprite.png);
+  background-position: -35px -29px;
+  width: 32px;
+  height: 28px; }
+
+i.icon-cart_white {
+  background-image: url(../img/sprite.png);
+  background-position: -71px 0px;
+  width: 32px;
+  height: 28px; }
+
+i.icon-clear {
+  background-image: url(../img/sprite.png);
+  background-position: -103px 0px;
+  width: 15px;
+  height: 20px; }
+
+i.icon-count-btn-minus {
+  background-image: url(../img/sprite.png);
+  background-position: -56px -79px;
+  width: 18px;
+  height: 18px; }
+
+i.icon-count-btn-plus {
+  background-image: url(../img/sprite.png);
+  background-position: -38px -79px;
+  width: 18px;
+  height: 18px; }
+
+i.icon-enter {
+  background-image: url(../img/sprite.png);
+  background-position: -19px -79px;
+  width: 19px;
+  height: 20px; }
+
+i.icon-enter_footer {
+  background-image: url(../img/sprite.png);
+  background-position: 0px -79px;
+  width: 19px;
+  height: 20px; }
+
+i.icon-search {
+  background-image: url(../img/sprite.png);
+  background-position: -71px -28px;
+  width: 21px;
+  height: 22px; }
+
+i.icon-select {
+  background-image: url(../img/sprite.png);
+  background-position: -103px -52px;
+  width: 10px;
+  height: 8px; }
+
+i.icon-slider_arrow_left {
+  background-image: url(../img/sprite.png);
+  background-position: -35px -57px;
+  width: 23px;
+  height: 18px; }
+
+i.icon-slider_arrow_right {
+  background-image: url(../img/sprite.png);
+  background-position: -71px -50px;
+  width: 23px;
+  height: 18px; }
+
+i.icon-tel {
+  background-image: url(../img/sprite.png);
+  background-position: 0px -36px;
+  width: 27px;
+  height: 43px; }
+
+i.icon-time {
+  background-image: url(../img/sprite.png);
+  background-position: 0px 0px;
+  width: 35px;
+  height: 36px; }
+
+i.icon-up_arrow {
+  background-image: url(../img/sprite.png);
+  background-position: -103px -30px;
+  width: 10px;
+  height: 12px; }
+
+i.icon-wallet {
+  background-image: url(../img/sprite.png);
+  background-position: -35px 0px;
+  width: 36px;
+  height: 29px; }
